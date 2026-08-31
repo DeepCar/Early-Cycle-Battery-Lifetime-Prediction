@@ -1,25 +1,32 @@
-[Data.md](https://github.com/user-attachments/files/31649098/Data.md)
 # Data
 
-This directory contains datasets and processed feature tables associated with the study.
+This directory contains the processed datasets associated with the study.
 
-## Processed Dataset
+## Processed Feature Dataset
 
-The current release includes:
+**`Combined_feature_severson_N50.xlsx`**
 
-```text
-[Combined_feature_severson_N50.xlsx](https://github.com/user-attachments/files/31649295/Combined_feature_severson_N50.xlsx)
+This workbook contains the processed early-cycle feature data used for the cross-dataset analysis with a 50-cycle observation window.
 
-```
+The dataset includes the selected degradation-related features used in the PCA and Kolmogorov–Smirnov (KS) distributional analysis.
 
-This file contains processed early-cycle feature information associated with the Severson dataset using the 50-cycle observation window.
+## Selected Features
 
-## Raw Data
+The final cross-dataset analysis considers:
 
-Raw cycling data are not included unless redistribution is explicitly permitted.
+* `cap_mean_50`
+* `cap_std_50`
+* `cap_slope_50`
+* `cap_c1`
+* `cap_c3`
+* `cap_c5`
+* `cap_delta_50`
+* `cap_ratio_50`
+* `fading_mean_50`
+* `fading_slope_50`
 
-## Third-Party Data
+## Data Usage
 
-Third-party datasets remain subject to their original licenses and terms of use.
+Please refer to the original source and applicable licensing terms before redistributing or using third-party datasets.
 
-Users should obtain source datasets from their authoritative providers when required.
+This repository is a pre-publication research release.
