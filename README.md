@@ -1,3 +1,4 @@
+<img width="1536" height="1024" alt="hpYCR1pw1cfgomDDDw4KlYM92p0-LsB_bXgXQc-sZ90Yq4ZzZw" src="https://github.com/user-attachments/assets/6ccf97ed-dc7a-44ac-a5ae-d17af0de6a4b" />
 # Early-Cycle Battery Lifetime Prediction Using a Physics-Inspired Hybrid Ensemble
 
 <p align="center">
