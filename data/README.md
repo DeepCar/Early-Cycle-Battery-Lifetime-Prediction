@@ -8,7 +8,8 @@ This directory contains datasets and processed feature tables associated with th
 The current release includes:
 
 ```text
-processed/Combined_feature_severson_N50.xlsx
+[Combined_feature_severson_N50.xlsx](https://github.com/user-attachments/files/31649295/Combined_feature_severson_N50.xlsx)
+
 ```
 
 This file contains processed early-cycle feature information associated with the Severson dataset using the 50-cycle observation window.
