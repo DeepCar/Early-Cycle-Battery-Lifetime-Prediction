@@ -77,7 +77,7 @@ These features characterize different aspects of early battery degradation, incl
 - energy and efficiency,
 - voltage characteristics,
 - operational conditions.
-<img width="1477" height="618" alt="download" src="https://github.com/user-attachments/assets/505eb78e-192b-4fb0-b503-b935a802d2dd" />
+
 
 Feature selection was performed to identify informative and stable predictors for battery lifetime estimation.
 
@@ -196,6 +196,7 @@ The resulting KS statistics range from **0.664 to 1.000**, with all FDR-adjusted
 Detailed analysis is documented in:
 
 `documentation/cross_dataset_analysis.md`
+<img width="1477" height="618" alt="download" src="https://github.com/user-attachments/assets/c3d3c1ae-54d3-4634-a89b-16a84ebcfc20" />
 
 ---
 
