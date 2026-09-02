@@ -289,8 +289,7 @@ A `CITATION.cff` file is provided as a placeholder and should be updated with th
 | Validation protocol | ✓ Available |
 | Cross-dataset analysis | ✓ Available |
 | Results summary | ✓ Available |
-| Model source code | — Withheld |
-| Manuscript | — Under preparation |
+
 
 ---
 
